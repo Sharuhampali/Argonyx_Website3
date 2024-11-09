@@ -107,7 +107,7 @@ export default function Home() {
                                       <Button>View Problem <br /> Statement 1</Button>
                                     </PopoverTrigger>
                                     <PopoverContent>
-                                      <div className="flex flex-col items-center">
+                                      <div className="flex flex-col items-center overflow-x-auto w-full">
                                         <h3 className="text-md font-semibold text-center">
                                           Unified Social Engagement Tracker for
                                           Streamlined Digital Interactions
